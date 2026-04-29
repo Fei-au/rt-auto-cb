@@ -1,0 +1,23 @@
+{
+  "name": "rt-auto-cb",
+  "version": "1.0.0",
+  "description": "Auto hibid charge back workflow",
+  "homepage": "https://github.com/Fei-au/rt-auto-cb#readme",
+  "bugs": {
+    "url": "https://github.com/Fei-au/rt-auto-cb/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fei-au/rt-auto-cb.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "auto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "playwright": "^1.59.1"
+  }
+}
